@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2013-12-27 12:55+0100\n"
-"PO-Revision-Date: 2013-12-27 13:17+0100\n"
+"PO-Revision-Date: 2013-12-27 20:59+0100\n"
 "Last-Translator: Alberto Gacías <alberto@migasfree.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -23,7 +23,7 @@ msgstr "GNU/Linux ready to use"
 #. type: Content of: <div><div><div><p>
 #: slideshows/vitalinux/slides/gnu-linux.html:8
 msgid "Vitalinux is based in ubuntu 12.04 and is adapted to different needs and configurations avoiding additional installations."
-msgstr "Vitalinux está bassado en ubuntu 12.04 y está adaptado a diferentes necesidades y configuraciones evitando instalaciones extra."
+msgstr "Vitalinux está basado en ubuntu 12.04 y adaptado a diferentes necesidades y configuraciones evitando instalaciones extra."
 
 #. type: Content of: <div><h1>
 #: slideshows/vitalinux/slides/presentation.html:1
