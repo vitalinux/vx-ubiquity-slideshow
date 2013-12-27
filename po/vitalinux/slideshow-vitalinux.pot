@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2013-12-27 12:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/vitalinux/slides/gnu-linux.html:1
+msgid "GNU/Linux ready to use"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/vitalinux/slides/gnu-linux.html:8
+msgid ""
+"Vitalinux is based in ubuntu 12.04 and is adapted to different needs and "
+"configurations avoiding additional installations."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/vitalinux/slides/presentation.html:1
+msgid "Installing Vitalinux"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/vitalinux/slides/presentation.html:8
+msgid ""
+"Vitalinux is a project to bring Free Software to people and organizations, "
+"providing a simple installation, use and support."
+msgstr ""
+
+#. type: Content of: <div><h1>
+#: slideshows/vitalinux/slides/support.html:1
+msgid "Get help"
+msgstr ""
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/vitalinux/slides/support.html:8
+msgid ""
+"Visit <a href=\"http://vitalinux.org\">vitalinux.org</a> for more "
+"information."
+msgstr ""
