@@ -1,4 +1,4 @@
-vx-ubiquity-slideshow (1.0-1) precise-security; urgency=low
+vx-ubiquity-slideshow (1.0-1) unstable; urgency=low
 
   * First version vitalinux slideshow
 
@@ -206,7 +206,7 @@ ubiquity-slideshow-ubuntu (42) oneiric; urgency=low
  -- Evan Dandrea <evand@ubuntu.com>  Wed, 07 Sep 2011 21:54:16 +0100
 
 ubiquity-slideshow-ubuntu (41) oneiric; urgency=low
- 
+
   * Bump version strings to 11.10.
 
  -- Evan Dandrea <ev@ubuntu.com>  Thu, 25 Aug 2011 11:12:17 +0100
@@ -573,7 +573,7 @@ ubiquity-slideshow-ubuntu (12) lucid; urgency=low
     WebKit.
   * Changed default slide interval for slideshows to 45s
     (LP: #423639)
-  
+
   [ Evan Dandrea ]
   * Put Kubuntu slides in their own directory to avoid having to make
     each slideshow package conflict.
